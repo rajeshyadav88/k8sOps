@@ -1,1 +1,1 @@
-# k8sOps
+# k8sOps, its k8s yaml for practice
